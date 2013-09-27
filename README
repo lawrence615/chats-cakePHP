@@ -1,0 +1,14 @@
+This is the first version of an app I made that uses highchats in reporting checking time in an event.
+
+I made it for my own practice as well as for anyone out there who may  want to achieve the same.
+
+It is really simple but I hope to advance it. However, any contribution is very much welcomed.
+
+How to run it.
+1. Import the database provided in the data folder.
+2. Change the Database connection to match that of your server
+3. Navigate to http://localhost/chats/attendees
+NB: if you are running it on a server, change the localhost to your domain name
+
+I am aware of a plugin that can do exactly  the same thing plus much more, but I find it easier to work with json and ajax. Morever,
+these minimises the coding.
